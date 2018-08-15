@@ -6,6 +6,6 @@ def fizzbuzz(number)
   elsif number % 5 == 0
     puts "Buzz"
   else
-    puts "I do not understand that input
+    puts "I do not understand that input."
   end
 end
