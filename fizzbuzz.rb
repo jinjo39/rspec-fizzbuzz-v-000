@@ -5,7 +5,5 @@ def fizzbuzz(number)
     return "Fizz"
   elsif number % 5 == 0
     return "Buzz"
-  else
-    puts "I do not understand that input."
   end
 end
